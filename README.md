@@ -8,3 +8,4 @@ Fuctions:
 
 2.Resample/Ola/Volume/mix/EPD/Filter
 
+3.</>/Print Log
